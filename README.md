@@ -19,4 +19,6 @@ Deployed yolov8 cls through Streamlit for real-time web camera feeds.
 📊 Decision Support System:
 Provides reporting and alerts with timestamps to indicate if a person is drowsy or active at specific topics.
 
-This project aims to maximize student engagement and improve academic performance by detecting drowsiness and making timely interventions to make the topics more interesting.
+This project aims to maximize student engagement and improve academic performance by detecting drowsiness and making timely interventions to make the topics more interesting. Check out the deployment video to see it in action! 🚀😁
+
+[![Video Title](https://img.youtube.com/vi/xqWR6EGV2Z4/0.jpg)](https://www.youtube.com/watch?v=xqWR6EGV2Z4)
